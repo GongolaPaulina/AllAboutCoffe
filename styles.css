@@ -45,29 +45,29 @@ aside{
     padding: 20px;
     margin-left: 20px;
 }
-.photo-left{
+.photo-left {
     float: left;
     margin-right: 20px;
 }
-.photo-right{
+.photo-right {
     float: right;
     margin-left: 20px;
 }
-header{
+header {
     background-image: url("images/coffee-beans.jpg");
     height: 100px;
     margin-bottom: 70px;
 }
-header h1{
+header h1 {
     color: rgb(256, 256, 256, 8);
     margin-left: 30px;
     margin-top: 30px;
     font-size: 50px;
 }
-footer{
+footer {
     margin: 40px 0;
 }
-footer nav a:link, footer nav a:visited{
+footer nav a:link, footer nav a:visited {
     color: gray;
     text-decoration: none;
     display: block;
@@ -75,22 +75,19 @@ footer nav a:link, footer nav a:visited{
     text-align: center;
     background-color: white;
 }
-footer nav a:hover{
+footer nav a:hover {
     color: black;
 }
-td, th{
+td, th {
     border: 1px solid black;
     width: 20%;
     text-align: center;
     padding: 5px;
 }
-table{
+table {
     border-collapse: collapse;
 }
-video{
+video {
     margin-bottom: 20px;
     margin-left: 160px;
-    -webkit-filter: grayscale(100%);
-    -moz-filter: grayscale(100%);
-    filter: grayscale(100%);
 }
